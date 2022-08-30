@@ -1,4 +1,4 @@
-# Co-Create: *a game for 2-150 players*
+# Co-Create: *a generative game for 2-150 players*
 ## Rules
 1. Decide what you want to create
 	- a reusable twitter login
